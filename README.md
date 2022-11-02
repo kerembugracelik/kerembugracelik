@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kerembugracelik
-- 👀 I’m interested in SQL, Phyton, VirtualStudio, R Programming, HTML, CSS etc.
+- 👀 I’m interested in SQL, Phyton, R Programming, HTML, CSS etc.
 - 🌱 I’m currently learning HTML, CSS, R Programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:  linkedin-kerembugracelik
+- 📫 How to reach me: [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kerem-bu%C4%9Fra-%C3%A7elik-881430246/)
 - 
 
 <!---
